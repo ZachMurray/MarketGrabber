@@ -1,0 +1,22 @@
+{
+  "name": "marketgrabber",
+  "version": "1.0.0",
+  "description": "A middleware app that automates the checkout process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachMurray/MarketGrabber.git"
+  },
+  "author": "Aaron Blancaflor, Zach Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachMurray/MarketGrabber/issues"
+  },
+  "homepage": "https://github.com/ZachMurray/MarketGrabber#readme",
+  "dependencies": {
+    "puppeteer": "^21.5.0"
+  }
+}
